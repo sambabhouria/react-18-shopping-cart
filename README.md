@@ -28,3 +28,10 @@
 8 use useTransition and useDeferedValue
     read items in local storage using useTransition
     change cartItems.length to transition effect
+
+
+## Screen Shot
+
+<img src="1.png" />
+<img src="2.png" />
+<img src="3.png" />
